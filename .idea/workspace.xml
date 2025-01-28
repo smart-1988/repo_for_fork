@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b1d55e2-8d79-4cfe-89ac-5cdd338176ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/base_path" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/breadcrumbs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icon-sm-git.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icon-sm-migration.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/light-hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/seo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/translation_buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/cheat-sheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/404.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/curriculum.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/github_contribution_graph.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/_scss/timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ar/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/az/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/bn_BD/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/de/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/es_ES/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/es_ES/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/es_ES/submodule-vs-subtree-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/es_ES/subversion-migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/fa/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/fr/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/fr/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/github-bash-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/github-git-advanced-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/github-git-concepts_BETA.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/gr/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/gu/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/hi/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/id/github-git-advanced-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/id/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/it/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/it/subversion-migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ja/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ja/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ko/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ml/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ne/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/pl/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/pt_BR/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/pt_BR/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/pt_PT/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/pt_PT/github-git-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ru/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/sk/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/submodule-vs-subtree-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/subversion-migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/tr/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/ua/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/zh_CN/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/zh_TW/github-git-cheat-sheet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-add.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-clone.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-commit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-init.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-pull.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-push.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-remote.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/git-status.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guides/install-git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redirects-cheatsheets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redirects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/package" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/server" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Vv-vfx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:FuturePeopleSchool/repo_for_fork.git",
+    "accountId": "dc61eb85-4817-49ed-b9fd-900b5efe501b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2sGHOwNimorYz0MrBlE3Okdgsla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/projects/TestProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1d55e2-8d79-4cfe-89ac-5cdd338176ae" name="Changes" comment="" />
+      <created>1738074963254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738074963254</updated>
+      <workItem from="1738074964375" duration="4805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
